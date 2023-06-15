@@ -2,7 +2,7 @@
 👩🏻‍🦽 장애인/환자 대상 운동 도우미 앱  
 📅 개발기간: 2022.12 ~  
   
-**Pedal 1.0** : https://github.com/jung0115/pedal_sports_app  
+**Pedal 1.0** : https://github.com/Pedal-BF/pedal_sports_app  
 
 ## 👩🏻‍💻 Developers
 | 조정미 | 허윤아 |                                                                                                               
